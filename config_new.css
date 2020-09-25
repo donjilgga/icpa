@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.re_main_img{
+    border-radius: 6px !important;
+    -webkit-box-shadow: 1px 14px 10px -12px rgba(153, 153, 153, 0.42), 1px 4px 10px 0px rgba(0, 0, 0, 0.12), 1px 8px 10px -5px rgba(153, 153, 153, 0.2);
+    box-shadow: 1px 14px 10px -12px rgba(153, 153, 153, 0.42), 1px 4px 10px 0px rgba(0, 0, 0, 0.12), 1px 8px 10px -5px rgba(153, 153, 153, 0.2);
+}
+
+/*footer*/
+.re_footer_wrap{
+    font-family: 'Jeju Gothic', serif !important;
+}
+
+.re_footer_container{
+    background: #ffffff;
+    width: 100%;
+    margin: auto;
+    margin: 100px 0 10px;
+}
+
+.re_footer_logo{
+    width: 100%;
+    display: block;
+    text-align: center;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+.re_footer_text{
+    font-family: 'Jeju Gothic', serif !important;
+    width: 100%;
+    display: block;
+    text-align: center;
+    vertical-align: top;
+}
+
+.re_footer_text>a{
+    font-family: 'Jeju Gothic', serif !important;
+}

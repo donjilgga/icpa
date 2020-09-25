@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+.re_menucon_wrap{
+    background: #ffffff !important;
+    width: 32.6% !important;
+    border-radius: 6px !important;
+    -webkit-box-shadow: 1px 14px 10px -12px rgba(153, 153, 153, 0.42), 1px 4px 10px 0px rgba(0, 0, 0, 0.12), 1px 8px 10px -5px rgba(153, 153, 153, 0.2);
+    box-shadow: 1px 14px 10px -12px rgba(153, 153, 153, 0.42), 1px 4px 10px 0px rgba(0, 0, 0, 0.12), 1px 8px 10px -5px rgba(153, 153, 153, 0.2);
+    padding: 10px !important;
+    box-sizing: border-box;
+}
+
+.re_li_tit_icon{
+    float: left;
+    width: 25px !important; height: auto !important;
+    margin-right: 5px !important;
+}
+
+.re_menucon_li{
+    background: transparent !important;
+    height: 25px !important;
+    border-bottom: dotted 1px #e9e9e9 !important;
+}
+
+.re_menucon_li_body{
+    border-bottom: 1px solid #e9e9e9 !important;
+}
+
+.re_menucon_li_b {
+    font-family: 'Jeju Gothic', serif;
+    height: 30px;
+    line-height: 29px;
+    vertical-align: middle !important;
+    font-size: 15px;
+    display: inline-block;
+    color: #333333;
+}
+
+.re_menucon_li_date{
+    font-family: 'Jeju Gothic', serif;
+    height: 30px;
+    vertical-align: middle !important;
+    font-size: 15px;
+    display: inline-block;
+    color: #0088cc;
+}
+
+.re_menucon_li_rinktitle{
+    background: transparent !important;
+    height: 35px !important;
+    border: none !important;
+}
+
+.re_menucon_li_rinktitle_b{
+    font-family: 'Jeju Gothic', serif;
+    height: 30px;
+    vertical-align: middle !important;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px;
+    color: #0088cc;
+    padding-top: 20px;
+}
+
+.re_menucon_li_rink{
+    font-family: 'Jeju Gothic', serif;
+    height: 30px;
+    vertical-align: middle !important;
+    font-size: 18px;
+    color: #0088cc;
+    position: absolute;
+    bottom: 30px;
+    right: 40px;
+}
+
+.re_menucon_img{
+    width: 250px; height: 210px;
+    background: url("https://app.riroschool.kr/img/new/main_icon1.png") no-repeat left 30px bottom 20px;
+    background-size: 190px auto;
+}
+
+.re_menucon_img2{
+    width: 200px; height: 210px;
+    background: url("https://app.riroschool.kr/img/new/main_icon2.png") no-repeat left 30px bottom 20px;
+    background-size: 170px auto;
+}
+
+.bottom-shadow {
+    -webkit-box-shadow: 0 7px 14px -12px rgba(0, 0, 0, 0.26), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 7px 14px -12px rgba(0, 0, 0, 0.26), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+    background-size: cover;
+    background-position: 50%;
+}
